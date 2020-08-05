@@ -16,7 +16,8 @@ We are going to create a CRUD app using our knowledge of _routes_ and _controlle
 
 #### 2. Routes
 
-We will create five routes. The data for these routes is provided in the `data` folder. It is up to you to make use of this data correctly. For the POST route you may import and use the `sampleUser` file instead of creating a user manually.
+We will create five routes. The data for these routes is provided in the `data` folder. It is up to you to make use of this
+ data correctly. For the POST route you may import and use the `sampleUser` file instead of creating a user manually.
 
 * Create a `routes` folder to hold our routes. Underneath make a file called `users.js` to represent the users router
 
